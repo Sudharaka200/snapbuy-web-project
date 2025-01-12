@@ -13,6 +13,6 @@
 <!-- style file -->
 
 <!-- Navbar -->
- <!-- <?php include '../library/nav.php' ?> -->
+ <?php include '../library/navbar.php' ?>
 <!-- Navbar -->
 

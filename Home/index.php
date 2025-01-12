@@ -9,6 +9,9 @@
     <!-- Head file -->
     <?php include '../library/head.php'; ?>
     <!-- Head file -->
+
+
+    <center><h1>Home</h1></center>
     
 </body>
 </html>
