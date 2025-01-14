@@ -331,6 +331,7 @@
      <div class="container" >
         <p class="small-title">Featured</p>
         <h1 class="big-title" >New Arrival</h1>
+
      </div>
     <!-- area 6 end-->
     <!-- area 7 -->
@@ -366,6 +367,9 @@
         </div>
     </div>
     <!-- area 7 end-->
+    <!-- footer -->
+        <?php include '../library/footer.php'; ?>
+    <!-- footer -->
 
     
 </body>
